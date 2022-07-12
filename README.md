@@ -26,7 +26,3 @@
      4.2.2.	Description of the organization and structure of the data	
      4.2.3.	Description of the operating environment of the system
     5. References
-    
-### To use the Tumor classification app you first need to run the file densenet.ipynb or inception v3.ipynb in the Train and test models folder and save the model weights in the folder of the Tumor classification app.
-
-
