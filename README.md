@@ -1,4 +1,9 @@
 # Brain-Tumor-Radiogenomic-Classification-using-CNN
+The purpose of the project is to undenstad the impact of different hyperparameters (batch size, epoches, drop out and learning rate) on Densenet121 and Inception v3 during training, validation and testing of tumor classification in brain mri scans.\
+\
+The code for the research is in the Train and test models folder.\
+The results of the research is in the file Capstone Project Phase B.\
+The Tumor classification app folder contains a gui that enables the user to load a mri brain scan and use the CNN with the highest accuracy to predict if there is a tumor or not.
 ## In the file Capstone Project Phase A you will find:
     1. Introduction
     2. Background and Related Work 
